@@ -1,0 +1,17 @@
+#discription_list1{
+    background-color: rgb(245, 4, 4);
+    position: absolute;
+    margin-top: -780px;
+    margin-left: 280px;
+}
+
+#discription_title1{
+    background-color: #fdfdfd;
+    height: 40px;
+    width: 400px;
+
+}
+
+#calendar{
+    height: 12px;
+}
